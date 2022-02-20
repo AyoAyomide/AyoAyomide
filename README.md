@@ -3,8 +3,6 @@
 Hi, I am Samuel Abel :blush:. You can call me AyoAyomide.
 I am a software developer. I write both Frontend and Backend codes but am focused on Backends for now.
 
-Currently a blockchain developer [Atechcoins](http://atechcoins.com) :sparkles:
-
 ## Technology I have worked with includes.
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -30,3 +28,11 @@ You can also reach me on.
 
 - [Portfolio](https://ayoayomide.netlify.app/)
 - [Pinterst](https://www.pinterest.com/ayoayomide124/)
+
+## My Journey 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoayomide&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ayoayomide&theme=merko&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
